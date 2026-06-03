@@ -7,6 +7,7 @@ MiniLibX must be installed. Depending on your OS:
 Linux
 sudo apt-get install libxext-dev libxrandr-dev libx11-dev libbsd-dev libgl1-mesa-dev
 macOS — MiniLibX uses native frameworks, nothing to install.
+PS: mlx file must be named "mlx"
 
 Compilation
 Most 42 repos include a Makefile, so just run:
